@@ -14,3 +14,15 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.elim{
+    margin: 5px;
+    padding: 4px 4px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #000000;
+    color: rgb(255, 0, 0);
+    /* border: none; */
+    border-radius: 5px;
+    cursor: pointer;
+}
